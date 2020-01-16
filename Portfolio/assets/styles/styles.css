@@ -1,0 +1,11 @@
+* {
+    background-color: grey;
+    font-size: 12px;
+    font: Arial;
+
+}
+
+#linkBar {
+    position: fixed;
+    
+}
