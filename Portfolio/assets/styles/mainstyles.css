@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Poppins;
+    src: url(Poppins-Medium.otf);
+}
+
+body {
+    font-family: Poppins;
+    color: white;
+    background-color: #35b6ec;
+}
